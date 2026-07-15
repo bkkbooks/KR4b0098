@@ -78,10 +78,13 @@ markers:
   - {type: 'tls:seg', offset: 133, content: '', id: KR4b0098_CHANT_005-3a.8}
   - {type: punctuation, offset: 137, content: ，, id: KR4b0098_CHANT_005-bkkpn27}
   - {type: 'tls:seg', offset: 137, content: '', id: KR4b0098_CHANT_005-3a.9}
+  - {type: substitution, offset: 142, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 145, content: ，, id: KR4b0098_CHANT_005-bkkpn28}
   - {type: 'tls:seg', offset: 145, content: '', id: KR4b0098_CHANT_005-3a.10}
   - {type: punctuation, offset: 149, content: ，, id: KR4b0098_CHANT_005-bkkpn29}
   - {type: 'tls:seg', offset: 149, content: '', id: KR4b0098_CHANT_005-3a.11}
+  - {type: substitution, offset: 150, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
+  - {type: substitution, offset: 153, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 156, content: 。, id: KR4b0098_CHANT_005-bkkpn30}
   - {type: 'tls:seg', offset: 156, content: '', id: KR4b0098_CHANT_005-3a.12}
   - {type: punctuation, offset: 156, content: ○, id: KR4b0098_CHANT_005-bkkpn31}
@@ -108,4 +111,4 @@ markers:
   - {type: punctuation, offset: 191, content: 。, id: KR4b0098_CHANT_005-bkkpn44}
   - {type: xml-element, offset: 191, content: '', id: KR4b0098_CHANT_005-bkkxmlele20, name: p, role: close}
   back: []
-hash: sha256:5067ba406cab934f32d66202f88161db68fbb6e8f7c9c43eaeb597ebcc09e42b
+hash: sha256:594309b3221975184509b2142a4da22a33bbd865e29db2820aaee8bb52cfa0b7
